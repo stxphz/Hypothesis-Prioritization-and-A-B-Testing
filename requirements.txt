@@ -1,0 +1,7 @@
+pip == 24.0.0
+ipykernel == 6.25.2
+ipython == 8.15.0
+notebook == 7.0.4
+pandas == 2.2.0
+matplotlib == 3.7.3
+numpy == 1.24.3
