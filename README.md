@@ -5,6 +5,7 @@
 This project aims to identify and prioritize various hypotheses that could potentially boost the revenue of a large e-commerce store. Following the hypothesis prioritization, an A/B test will be conducted to evaluate the effectiveness of the top hypotheses. The analysis of the A/B test results will provide actionable insights for strategic decision-making to enhance the store's revenue performance.
 
 Objectives
+<br>
 <code> Prioritize Hypotheses: </code>
 
 > - Apply the ICE (Impact, Confidence, Effort) framework to rank hypotheses.
