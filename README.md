@@ -1,1 +1,1 @@
-# Hypothesis-Prioritization-and-A-B-Testing
+# Hypothesis Prioritization and A/B Testing
